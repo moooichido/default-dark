@@ -1,6 +1,5 @@
 # <b>Default-Dark for [ImageGlass](https://imageglass.org/)</b>
 
-## Default-Dark
 ![Alt-текст](https://github.com/Mosqovlu/Default-Dark/blob/main/preview.jpg?raw=true](https://raw.githubusercontent.com/Mosqovlu/Default-Dark/main/preview.jpg) "Орк")
 
 ## Installation
