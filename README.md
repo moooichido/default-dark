@@ -11,4 +11,3 @@
 
 ## 💖 Tools Used
 + [Material Symbols and Icons](https://fonts.google.com/icons)
-+ [Convertio](https://convertio.co/ru/)
