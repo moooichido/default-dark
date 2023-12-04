@@ -1,8 +1,4 @@
 # Theme for ImageGlass 8.0 default-dark:
-<a href="https://github.com/sponsors/maatarashiii" target="_blank" title="Become a sponsor">
-<img src="https://img.shields.io/badge/Github-@maatarashiii-24292e.svg?maxAge=3600&logo=github" height="20" alt="Become a sponsor">
-</a> <br>
-
 **Translate:** <br>
 [🇷🇺](https://github.com/Maatarashiii/default-dark/blob/main/README-ru.md)
 
@@ -19,4 +15,7 @@
 
 ## ✨ Tools Used:
 - [Material Symbols and Icons](https://fonts.google.com/icons). <br>
-- [Documentation from ImageGlass](https://imageglass.org/docs/theme-pack).
+- [Documentation from ImageGlass](https://imageglass.org/docs/theme-pack). <br>
+<a href="https://github.com/sponsors/maatarashiii" target="_blank" title="Become a sponsor">
+<img src="https://img.shields.io/badge/Github-@maatarashiii-24292e.svg?maxAge=3600&logo=github" height="20" alt="Become a sponsor">
+</a>
