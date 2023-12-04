@@ -9,7 +9,7 @@
 ![Alt-текст](https://github.com/Mosqovlu/Default-Dark/blob/main/preview.jpg?raw=true](https://raw.githubusercontent.com/Maatarashiii/default-dark/main/preview.jpg) "Орк")
 
 > **CAUTION!** <br>
-> Design for version ImageGlass 8.0, soon I will update it to the latest version of the application.
+> Design for version ImageGlass 8.0, soon I will update it to the latest version of the application ImageGlass 9.0.
 
 ### 🚀 Installation:
 1. Download the latest version of ImageGlass [here](https://imageglass.org/spider).
