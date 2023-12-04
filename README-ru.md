@@ -7,10 +7,10 @@
 
 ![Alt-текст](https://github.com/Mosqovlu/Default-Dark/blob/main/preview.jpg?raw=true](https://raw.githubusercontent.com/Maatarashiii/default-dark/main/preview.jpg) "Орк")
 
-> [!NOTEпп]
+> **ПРИМЕЧАНИЕ!** <br>
 > Эта тема ImageGlass содержит значки из Google Icons, и темные акценты.
 
-> [!CAUTION] 
+> **ВНИМАНИЕ!**  <br>
 > Эта тема для версии ImageGlass 8.0, скоро выйдет обновление до последней версии приложения ImageGlass 9.0.
 
 ### 🚀 Установка:
