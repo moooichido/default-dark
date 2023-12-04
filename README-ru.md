@@ -17,4 +17,5 @@
 1. Нажмите на вкладку установки, выберите наш файл и примените тему, все готово! Вы установили тему, теперь можете ею пользоваться! 🎉🎉🎉
 
 ### ✨ Материалы которые использовались:
-- [Material Symbols and Icons](https://fonts.google.com/icons).
+- [Material Symbols and Icons](https://fonts.google.com/icons). <br>
+- [Documentation from ImageGlass](https://imageglass.org/docs/theme-pack).
