@@ -1,9 +1,9 @@
 # Default Dark for [ImageGlass](https://imageglass.org/)
 [![Website](https://img.shields.io/badge/www-imageglass.org-0099BC.svg?maxAge=3600&color=%233097B8)](https://imageglass.org)
-[![Discord](https://img.shields.io/discord/818852544859209748?label=chat&logo=discord&color=%233097B8&style=social)](http://discord.io/imageglass) <br>
 <a href="https://github.com/sponsors/d2phap" target="_blank" title="Become a sponsor">
 <img src="https://img.shields.io/badge/Github-@d2phap-24292e.svg?maxAge=3600&logo=github" height="20" alt="Become a sponsor">
-</a>
+</a> <br>
+[![Discord](https://img.shields.io/discord/818852544859209748?label=chat&logo=discord&color=%233097B8&style=social)](http://discord.io/imageglass)
 
 ![Alt-текст](https://github.com/Mosqovlu/Default-Dark/blob/main/preview.jpg?raw=true](https://raw.githubusercontent.com/Mosqovlu/Default-Dark/main/preview.jpg) "Орк")
 
