@@ -1,8 +1,6 @@
 # Theme for ImageGlass 8.0 default-dark:
 
-![Alt-текст](https://github.com/Mosqovlu/Default-Dark/blob/main/preview.jpg?raw=true](https://raw.githubusercontent.com/Maatarashiii/default-dark/main/preview.jpg) "Орк")
-**Translate:** <br>
-[🇷🇺](https://github.com/Maatarashiii/default-dark/blob/main/README-ru.md)
+![preview](https://github.com/Mosqovlu/Default-Dark/blob/main/preview.jpg?raw=true](https://raw.githubusercontent.com/Maatarashiii/default-dark/main/preview.jpg))
 
 > **CAUTION!** <br>
 > Design for version ImageGlass 8.0, soon I will update it to the latest version of the application ImageGlass 9.0.
