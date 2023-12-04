@@ -7,11 +7,8 @@
 
 ![Alt-текст](https://github.com/Mosqovlu/Default-Dark/blob/main/preview.jpg?raw=true](https://raw.githubusercontent.com/Maatarashiii/default-dark/main/preview.jpg) "Орк")
 
-> [!NOTE]
-> This ImageGlass theme has icons from Google Icons and dark accents.
-
-> [!CAUTION] 
-> Design for version 8.0 ImageGlass, soon I will update it to the latest version of the application.
+> **CAUTION!** <br>
+> Design for version ImageGlass 8.0, soon I will update it to the latest version of the application.
 
 ### 🚀 Installation
 1. Download the latest version of ImageGlass Spider [here](https://imageglass.org/spider).
