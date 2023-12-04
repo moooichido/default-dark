@@ -1,5 +1,6 @@
 # Default Dark for [ImageGlass](https://imageglass.org/)
 [![Website](https://img.shields.io/badge/www-imageglass.org-0099BC.svg?maxAge=3600&color=%233097B8)](https://imageglass.org)
+[![Discord](https://img.shields.io/discord/818852544859209748?label=chat&logo=discord&color=%233097B8&style=social)](http://discord.io/imageglass)
 > **NOTE!** <br>
 > This ImageGlass theme has icons from Google Icons and dark accents
 
