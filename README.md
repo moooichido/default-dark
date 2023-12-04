@@ -5,7 +5,7 @@
 </a> <br>
 [![Discord](https://img.shields.io/discord/818852544859209748?label=chat&logo=discord&color=%233097B8&style=social)](http://discord.io/imageglass) <br>
 
-Translate:
+**Translate:**
 [🇷🇺](https://github.com/Maatarashiii/default-dark/blob/main/README-ru.md)
 
 ![Alt-текст](https://github.com/Mosqovlu/Default-Dark/blob/main/preview.jpg?raw=true](https://raw.githubusercontent.com/Maatarashiii/default-dark/main/preview.jpg) "Орк")
