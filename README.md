@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Mosqovlu/Default-Dark/blob/main/preview.jpg?raw=true">
 
-> **CAUTION!** <br>
+> [!WARNING]
 > Design for version ImageGlass 8.0, soon I will update it to the latest version of the application ImageGlass 9.0.
 
 ## 🚀 Installation:
