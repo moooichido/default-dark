@@ -8,7 +8,7 @@
 ![Alt-текст](https://github.com/Mosqovlu/Default-Dark/blob/main/preview.jpg?raw=true](https://raw.githubusercontent.com/Mosqovlu/Default-Dark/main/preview.jpg) "Орк")
 
 > **NOTE!** <br>
-> This ImageGlass theme has icons from Google Icons and dark accents.
+> This ImageGlass theme has icons from Google Icons and dark accents. <br>
 > [!CAUTION] 
 > Design for version 8.0 ImageGlass, soon I will update it to the latest version of the application 
 
