@@ -9,6 +9,8 @@
 
 > **NOTE!** <br>
 > This ImageGlass theme has icons from Google Icons and dark accents.
+> [!CAUTION] 
+> Design for version 8.0 ImageGlass, soon I will update it to the latest version of the application 
 
 ### 🚀 Installation
 1. Download the latest version of ImageGlass Spider [here](https://imageglass.org/spider).
