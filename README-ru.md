@@ -1,4 +1,4 @@
-# Тема для ImageGlass default-dark:
+# Тема для ImageGlass 8.0 default-dark:
 [![Website](https://img.shields.io/badge/www-imageglass.org-0099BC.svg?maxAge=3600&color=%233097B8)](https://imageglass.org)
 <a href="https://github.com/sponsors/d2phap" target="_blank" title="Become a sponsor">
 <img src="https://img.shields.io/badge/Github-@d2phap-24292e.svg?maxAge=3600&logo=github" height="20" alt="Become a sponsor">
