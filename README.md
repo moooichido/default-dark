@@ -15,7 +15,7 @@
 
 ### 🚀 Installation
 1. Download the latest version of ImageGlass Spider [here](https://imageglass.org/spider).
-1. Download the file with the extension `Default-Dark.igtheme`, if possible, you can move it along the path `C:\Program Files\ImageGlass\Themes`.
+1. Download the file with the extension `default-dark.igtheme`, if possible, you can move it along the path `C:\Program Files\ImageGlass\Themes`.
 1. Go to the ImageGlass settings and go to the theme item.
 1. Click on the install tab, select our file and apply the theme, you're done! We installed the theme now it's yours! 🎉🎉🎉
 
