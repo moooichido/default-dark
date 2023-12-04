@@ -1,4 +1,5 @@
 # Default Dark for [ImageGlass](https://imageglass.org/)
+[![Website](https://img.shields.io/badge/www-imageglass.org-0099BC.svg?maxAge=3600&color=%233097B8)](https://imageglass.org)
 > This ImageGlass theme has icons from Google Icons and dark accents
 
 ![Alt-текст](https://github.com/Mosqovlu/Default-Dark/blob/main/preview.jpg?raw=true](https://raw.githubusercontent.com/Mosqovlu/Default-Dark/main/preview.jpg) "Орк")
