@@ -7,7 +7,7 @@
 
 ![Alt-текст](https://github.com/Mosqovlu/Default-Dark/blob/main/preview.jpg?raw=true](https://raw.githubusercontent.com/Maatarashiii/default-dark/main/preview.jpg) "Орк")
 
-> [!NOTE] пп
+> [!NOTEпп]
 > Эта тема ImageGlass содержит значки из Google Icons, и темные акценты.
 
 > [!CAUTION] 
