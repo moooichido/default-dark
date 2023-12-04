@@ -18,4 +18,5 @@
 1. Click on the install tab, select our file and apply the theme, you're done! We installed the theme now it's yours! 🎉🎉🎉
 
 ### ✨ Tools Used:
-- [Material Symbols and Icons](https://fonts.google.com/icons).
+- [Material Symbols and Icons](https://fonts.google.com/icons). <br>
+- [Documentation from ImageGlass](https://imageglass.org/docs/theme-pack).
