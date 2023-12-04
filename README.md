@@ -1,6 +1,6 @@
 # Theme for ImageGlass 8.0 default-dark:
 
-[Preview](https://github.com/Mosqovlu/Default-Dark/blob/main/preview.jpg?raw=true](https://raw.githubusercontent.com/Maatarashiii/default-dark/main/preview.jpg))
+![Preview](https://github.com/Mosqovlu/Default-Dark/blob/main/preview.jpg?raw=true](https://raw.githubusercontent.com/Maatarashiii/default-dark/main/preview.jpg))
 
 > **CAUTION!** <br>
 > Design for version ImageGlass 8.0, soon I will update it to the latest version of the application ImageGlass 9.0.
