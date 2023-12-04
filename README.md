@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/Github-@d2phap-24292e.svg?maxAge=3600&logo=github" height="20" alt="Become a sponsor">
 </a> <br>
 [![Discord](https://img.shields.io/discord/818852544859209748?label=chat&logo=discord&color=%233097B8&style=social)](http://discord.io/imageglass)
+Translation of the topic into Russian: [README-ru.md 🇷🇺]()
 
 ![Alt-текст](https://github.com/Mosqovlu/Default-Dark/blob/main/preview.jpg?raw=true](https://raw.githubusercontent.com/Maatarashiii/default-dark/main/preview.jpg) "Орк")
 
