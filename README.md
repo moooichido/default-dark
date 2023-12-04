@@ -16,8 +16,4 @@
 - [Documentation from ImageGlass](https://imageglass.org/docs/theme-pack). <br>
 <a href="https://github.com/sponsors/maatarashiii" target="_blank" title="Become a sponsor">
 <img src="https://img.shields.io/badge/Github-@maatarashiii-24292e.svg?maxAge=3600&logo=github" height="20" alt="Become a sponsor">
-</a> <br>
-
-♥️
-
-Thank, you!
+</a>
