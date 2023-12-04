@@ -21,3 +21,10 @@
 
 ### ✨ Tools Used
 + [Material Symbols and Icons](https://fonts.google.com/icons).
+
+
+{% note %}
+
+**Note:** Owners and administrators can add outside collaborators to a repository.
+
+{% endnote %}
