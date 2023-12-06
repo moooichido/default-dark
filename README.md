@@ -11,7 +11,7 @@
 
 <img src="https://github.com/Mosqovlu/Default-Dark/blob/main/preview.jpg?raw=true">
 
-> **ABOUT THE TOPIC:** <br>
+> **ABOUT:** <br>
 > default-dark is a theme for the ImageGlass 9.0, 8.2+ application with dark color accents and Google icons
 
 ## 🚀 Installation:
