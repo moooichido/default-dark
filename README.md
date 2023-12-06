@@ -6,6 +6,9 @@
     <a href="https://github.com/sponsors/maatarashiii" target="_blank" title="Become a sponsor">
 <img src="https://img.shields.io/badge/Github-@maatarashiii-24292e.svg?maxAge=3600&logo=github" height="20" alt="Become a sponsor">
 </a>
+       <a href="https://opensource.org/licenses/MIT" target="_blank" title="MIT">
+<img src="https://img.shields.io/badge/License-MIT-green.svg" height="20" alt="MIT">
+</a>
   </h1>
 </div>
 
