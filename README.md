@@ -11,6 +11,9 @@
 
 <img src="https://github.com/Mosqovlu/Default-Dark/blob/main/preview.jpg?raw=true">
 
+> **About the topic:** <br>
+> default-dark is a theme for the ImageGlass 9.0, 8.2+ application with dark color accents and Google icons
+
 ## 🚀 Installation:
 1. Download the latest version of ImageGlass [here]([https://imageglass.org/spider](https://imageglass.org/release/imageglass-9-0-8-1208-48)).
 1. Download the file with the extension `default-dark.igtheme`, if possible, you can move it along the path `C:\Program Files\ImageGlass\Themes`.
