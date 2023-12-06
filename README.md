@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Theme for ImageGlass 9.0, 8.2+ default-dark:
+    Theme for ImageGlass 9.0, 8.2+ default-dark: <br>
     <a href="https://github.com/sponsors/maatarashiii" target="_blank" title="Become a sponsor">
 <img src="https://img.shields.io/badge/Github-@maatarashiii-24292e.svg?maxAge=3600&logo=github" height="20" alt="Become a sponsor">
 </a>
