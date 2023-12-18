@@ -19,7 +19,7 @@
 
 ## 🚀 Installation:
 1. Download the latest version of ImageGlass [here]([https://imageglass.org/spider](https://imageglass.org/release/imageglass-9-0-8-1208-48)).
-1. Download the file with the extension `default-dark.igtheme`, if possible, you can move it along the path `C:\Program Files\ImageGlass\Themes`.
+1. Download the file from the location 'default-dark.maatarashiii/.igtheme/default-dark-main.maatarashiii.igtheme', after you download the file, change its extension to .zip or download a ready-made file with this extension from the location 'default-dark.maatarashiii /zip/default-dark-main.maatarashiii.zip' unzip it into the ImageGlass application themes folder at the location you chose during installation, or if you did not change it, then simply transfer the file to this path 'C:\Program Files\ImageGlass\Themes'.
 1. Go to the ImageGlass settings and go to the theme item.
 1. Click on the install tab, select our file and apply the theme, you're done! We installed the theme now it's yours! 🎉🎉🎉
 
