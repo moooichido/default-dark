@@ -21,10 +21,10 @@
 
 ## ✨ Tools Used:
 - [Material Symbols and Icons](https://fonts.google.com/icons) - Google Fonts. <br>
-  > Examples of icons used in the theme are given below:
+  The theme uses more than 34 icons from the site presented above at the link you can use them, below are the icons used in the theme:
 
   <img src="https://github.com/Maatarashiii/default-dark/blob/main/default-dark.maatarashiii/all-files/actualsize.svg" height="35"> <img src="https://github.com/Maatarashiii/default-dark/blob/main/default-dark.maatarashiii/all-files/colorpicker.svg" height="35"> <img src="https://github.com/Maatarashiii/default-dark/blob/main/default-dark.maatarashiii/all-files/crop.svg" height="35">
 
   <img src="https://github.com/Maatarashiii/default-dark/blob/main/default-dark.maatarashiii/all-files/zoomin.svg" height="35"> <img src="https://github.com/Maatarashiii/default-dark/blob/main/default-dark.maatarashiii/all-files/zoomout.svg" height="35"> <img src="https://github.com/Maatarashiii/default-dark/blob/main/default-dark.maatarashiii/all-files/fullscreen.svg" height="35">
 
-- [Documentation from ImageGlass](https://imageglass.org/docs/theme-pack).
+- [Documentation from ImageGlass](https://imageglass.org/docs/theme-pack) - ImageGlass 9.0, 8.2+.
