@@ -12,7 +12,7 @@
   </h1>
 </div>
 
-<img src="https://github.com/Mosqovlu/Default-Dark/blob/main/preview.jpg?raw=true">
+<img src="https://github.com/Maatarashiii/Default-Dark/blob/main/Resources Readme/preview.jpg?raw=true">
 
 > **ABOUT:** <br>
 > default-dark is a theme for the ImageGlass 9.0, 8.2+ application with dark color accents and Google icons
