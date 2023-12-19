@@ -12,7 +12,7 @@
   </h1>
 </div>
 
-<img src="https://github.com/Maatarashiii/Default-Dark/blob/main/resources-readme/preview.png?raw=true">
+<img src="https://github.com/Maatarashiii/Default-Dark/blob/main/preview.png?raw=true">
 
 ## 🚀 Installation:
 1. Download and install the latest version of [ImageGlass](https://imageglass.org/release/imageglass-9-0-8-1208-48) 9.0, or 8.2+ on your PC, as you wish, our theme is compatible with both of these themes.
