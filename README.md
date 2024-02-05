@@ -1,10 +1,4 @@
-<div align="center">
-  <h1>
-    default-dark
-    <br>
-    Theme for ImageGlass 9.0, 8.2+ 
-  </h1>
-</div>
+<div align="center"><h1>default-dark<br>Theme for ImageGlass 9.0, 8.2+</h1></div>
 <img src="https://github.com/Maatarashiii/default-dark/blob/main/preview.jpg">
 
 ## Installation:
