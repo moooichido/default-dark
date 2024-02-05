@@ -1,4 +1,4 @@
-# default-dark <br> Theme for ImageGlass 9.0, 8.2+
+# default-dark: <br> Theme for ImageGlass 9.0, 8.2+
 <img src="https://github.com/Maatarashiii/default-dark/blob/main/preview.jpg">
 
 ## Installation:
